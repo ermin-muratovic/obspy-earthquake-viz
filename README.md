@@ -6,11 +6,11 @@ The project specifically analyzes a Magnitude 4.1 earthquake that occurred near 
 
 ## 📊 Project Visuals
 
-<img width="749" height="237" alt="image" src="https://github.com/user-attachments/assets/fa6c94da-c515-4669-9710-feadc710234e" />
+<img width="749" height="237" alt="image" src="https://github.com/user-attachments/assets/5baf43ee-809e-41e7-9e7c-70cdc867d6a4" />
 
 > **Figure 1:** Filtered waveform (0.5 Hz - 5.0 Hz bandpass) showing the P-wave and S-wave arrivals from the Alenquer earthquake at the Spanish sensor.
 
-<img width="1715" height="794" alt="image" src="https://github.com/user-attachments/assets/8545e52a-e0b2-4cc9-b8b3-4faf228c573c" />
+<img width="1517" height="829" alt="image" src="https://github.com/user-attachments/assets/da554344-b125-4e86-ad41-46198b95e639" />
 
 > **Figure 2:** Interactive Folium map plotting the earthquake epicenter (red) and the monitoring station (blue), connected by the seismic wave's travel path.
 
